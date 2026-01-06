@@ -28,9 +28,7 @@ semantic SQL injection detection using an NLP/ML model.
 
 
 
-\## Note
 
-This is a learning prototype, not production-ready code.
 
 
 
