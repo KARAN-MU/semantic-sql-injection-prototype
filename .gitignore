@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# HuggingFace cache
+.cache/
+
+# OS junk
+Thumbs.db
+.DS_Store
